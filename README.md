@@ -1,5 +1,5 @@
 # Hello-World
-This is my first repository
+First repository
 
-This is tthe edited version of Hello-world
+This is the edited version of Hello-world
 How will this file be distingushed from the master?
